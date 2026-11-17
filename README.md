@@ -2,7 +2,7 @@
 
 Desenvolvedor **back-end** em formação, de São Paulo.
 
-Trabalho no **financeiro** de uma empresa de pedras e revestimentos e uso o que vejo lá (contas a pagar e a receber, notas fiscais, fluxo de caixa) como inspiração para os meus projetos.
+Trabalho no **Administrativo** de uma empresa e uso o que vejo lá (contas a pagar e a receber, notas fiscais, fluxo de caixa) como inspiração para os meus projetos.
 
 - 🎓 Análise e Desenvolvimento de Sistemas na **UNICID** (conclusão em 2027)
 - 🌱 Estudando agora: **Spring Boot, APIs REST e testes com JUnit**
